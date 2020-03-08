@@ -1,3 +1,0 @@
-"""
-Import all factories here.
-"""
